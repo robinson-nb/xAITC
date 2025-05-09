@@ -1,1 +1,1 @@
-This repository contains the models used in text depression classification based on DNNs and encoder-only Transformers that were improved using the xAITC approach.
+This repository contains the models based on DNNs and encoder-only Transformers used for text depression classification that were improved using the xAITC approach.
